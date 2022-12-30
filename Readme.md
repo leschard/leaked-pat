@@ -16,7 +16,7 @@ Optionally (`-i` flag) and if the PAT has API write permissions, Gitlab issues c
 ## Installation
 
 ```shell
-git clone <GIT leaked-pat.py URL>
+git clone https://github.com/leschard/leaked-api
 pip3 install -r ./requirements.txt
 ```
 
